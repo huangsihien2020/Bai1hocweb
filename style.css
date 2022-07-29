@@ -1,0 +1,42 @@
+body{
+    background-color: beige;
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    margin: auto;
+    padding:20px;
+
+}
+.container h1{
+    font size: 50px
+    ;
+}
+.container p{
+    color: rgb(150, 150, 150);
+    font-size:24px;
+}
+.container-child img{
+    box-shadow:0 0 20px rgb(78, 162, 211);
+    transition: all 1s;
+
+
+}
+.container-child{
+    text-align: center;
+}
+.container-child img:hover{
+    transform:scale(1.1);
+}
+.container h2{
+    font-size: 32px 
+}
+.container ol{
+margin-left: 150px
+;
+}
+.container ol li{
+    font-size: 24px  ;
+    color: rgb(150, 150, 150);
+}
+
